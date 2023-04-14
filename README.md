@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+---To quickly develop a front-end prototype for machine learning, I opted to create a music recommendation program that would utilize Deezer API as the music database, giving me access to over 30 million tracks, artists, and albums. To develop the program, I used NextJs and Tailwind CSS and wrote the code using Visual Studio Code----
+
+
 ## Getting Started
 
 First, run the development server:
